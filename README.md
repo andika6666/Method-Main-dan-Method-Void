@@ -1,1 +1,1 @@
-# Method-Main-dan-Method-Void
+#konstruktor-parameter
